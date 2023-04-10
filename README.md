@@ -8,6 +8,7 @@ Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
   - [Contents](#contents)
   - [General chat](#general-chat)
   - [Tech Help](#tech-help)
+  - [Paid](#paid)
   - [Digital Nomad](#digital-nomad)
   - [Job boards](#job-boards)
   - [Accelerators](#accelerators)
@@ -35,8 +36,10 @@ Solve issues, network without spamming, talk about the growth of your business
 [Hacker's News](https://news.ycombinator.com): Forum like discussion board,
 mostly focused on VC backed startups. Moderated by the Ycombinator team.
 
-[Lobsters](https://lobste.rs/): Similar to Hacker's News, 100% less Ycombinator
+[Lobsters](https://lobste.rs/): Similar to Hacker's News, 100% less Ycombinator.
 propaganda.
+
+[everthing marketplaces](https://www.everythingmarketplaces.com/): Community for marketplace founders & leaders.
 
 ## Tech help
 
@@ -51,6 +54,18 @@ dev help.
 builder. Get help, get news and talk to other builders.
 
 [Dev.to](https://dev.to/): open forum for tech help
+
+## Paid
+
+Paid communities are all the rage right now.
+
+[Hampton](https://www.joinhampton.com/): Private network for high-growth founders, will set you back $8,500/yr but apparently it's already full with over 3,000 applicants.
+
+[Chief](https://chief.com/): Private membership network focused on connecting and supporting women executive leaders.
+
+[Demandcurve](https://www.demandcurve.com/): Newsletter, course, and a legit community of founders/mentors.
+
+[Operators guide](https://operators-guild.com/): One of the best community for builders, a safe space for exclusive talent to conjure, question, and create.
 
 ## Digital Nomad
 
@@ -101,6 +116,8 @@ VCs.
 [DMZ slack server](#): TBD
 
 ## Curated
+
+[OnDeck](https://www.beondeck.com/): curated community designed to increase the odds of building a successful venture-backed company.
 
 [r/ExperiencedFounders](https://www.reddit.com/r/ExperiencedFounders/): Curated
 community of experienced founders who shares their experience and have in-depth
