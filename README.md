@@ -6,15 +6,30 @@ Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 ## Contents
 - [Awesome Startup](#awesome-startup)
   - [Contents](#contents)
+  - [Accelerators](#accelerators)
   - [General chat](#general-chat)
   - [Tech Help](#tech-help)
   - [Paid](#paid)
   - [Digital Nomad](#digital-nomad)
   - [Job boards](#job-boards)
-  - [Accelerators](#accelerators)
   - [Curated](#curated)
   - [Show off](#show-off)
   - [Bonus](#bonus)
+
+## Accelerators
+
+[Ycombinator](#): TBD
+
+[500 startups](#): TBD
+
+[RippleX slack
+server](https://join.slack.com/t/ripplexfellow-nwv3104/shared_invite/zt-1t05yh5c1-C~piTUdk4fb3Ch3olVtu7w):
+Community for RippleX 12-week startup program for underrepresented founders and
+VCs.
+
+[Techstars](#): TBD
+
+[DMZ slack server](https://dmzcommunity.slack.com/): Canada's leading startup incubator/accelerator.
 
 ## General chat
 
@@ -101,21 +116,6 @@ Get Go announcements, get help on dev, find contrats/full-time jobs.
 [Toronto JS slack
 server](https://join.slack.com/t/torontojs/shared_invite/zt-1t041oxjl-atPnwJxbCsEfmYNofCNhtQ):
 Ask for help, talk about JS community in Toronto, find jobs.
-
-## Accelerators
-
-[Ycombinator](#): TBD
-
-[500 startups](#): TBD
-
-[RippleX slack
-server](https://join.slack.com/t/ripplexfellow-nwv3104/shared_invite/zt-1t05yh5c1-C~piTUdk4fb3Ch3olVtu7w):
-Community for RippleX 12-week startup program for underrepresented founders and
-VCs.
-
-[Techstars](#): TBD
-
-[DMZ slack server](#): TBD
 
 ## Curated
 
