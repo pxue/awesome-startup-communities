@@ -55,6 +55,8 @@ builder. Get help, get news and talk to other builders.
 
 [Dev.to](https://dev.to/): open forum for tech help
 
+[Accountability whatsapp group](https://chat.whatsapp.com/HkdI4sYj4HKKCQt2zTR975): Daily chats to hold new entrepreneurs accountable.
+
 ## Paid
 
 Paid communities are all the rage right now.
