@@ -29,7 +29,7 @@ VCs.
 
 [Techstars](#): TBD
 
-[DMZ slack server](https://dmzcommunity.slack.com/): Canada's leading startup incubator/accelerator.
+[DMZ slack server (invite only)](https://dmzcommunity.slack.com/): Canada's leading startup incubator/accelerator.
 
 ## General chat
 
