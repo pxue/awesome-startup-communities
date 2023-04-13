@@ -6,7 +6,7 @@ Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 ## Contents
 - [Awesome Startup](#awesome-startup)
   - [Contents](#contents)
-  - [Accelerators](#accelerators)
+  - [Accelerators & VCs](#accelerators)
   - [General chat](#general-chat)
   - [Tech Help](#tech-help)
   - [Paid](#paid)
@@ -17,6 +17,10 @@ Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
   - [Bonus](#bonus)
 
 ## Accelerators
+
+and VCs
+
+[Gen Z VCs slack community](https://genz-vcs.slack.com/join/shared_invite/zt-1ssip30sw-a0C25NtBxdeS12PqBq1v9g#): A global collective of 22,000+ Gen Z VCs, founders, angel investors, operators and aspiring VCs… the future of innovation.
 
 [Ycombinator](#): TBD
 
