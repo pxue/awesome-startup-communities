@@ -102,6 +102,8 @@ discussions.
 
 ## Job boards
 
+[YC co-founder matching board](https://www.ycombinator.com/cofounder-matching): Match with co-founders based on your preferences for interests, skills, location, and more, and start building your company.
+
 [Braintrust discord server](https://discord.gg/braintrust): User-owned talent
 network. Find jobs, get hired.
 
