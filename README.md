@@ -1,10 +1,9 @@
-# Awesome Startup Communities Awesome list of communities related to creating,
-running and being successful at startups.
+# Awesome Startup Communities: Awesome list of communities related to creating, running and being successful at startups.
 
 Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 
 ## Contents
-- [Awesome Startup](#awesome-startup)
+- [Awesome Startup Communities](#awesome-startup)
   - [Contents](#contents)
   - [Accelerators & VCs](#accelerators)
   - [General chat](#general-chat)
