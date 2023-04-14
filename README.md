@@ -1,6 +1,7 @@
 # Awesome Startup Communities
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of communities related to creating, running and being successful at startups.
+A curated list of awesome communities related to creating, running and being successful at startups.
 
 Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 
@@ -8,6 +9,7 @@ Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 - [Awesome Startup Communities](#awesome-startup)
   - [Contents](#contents)
   - [Accelerators & VCs](#accelerators)
+  - [Finding a co-founder](#finding-a-co-founder)
   - [General chat](#general-chat)
   - [Tech Help](#tech-help)
   - [Paid](#paid)
@@ -35,6 +37,10 @@ VCs.
 [Techstars](#): TBD
 
 [DMZ slack server (invite only)](https://dmzcommunity.slack.com/): Canada's leading startup incubator/accelerator.
+
+## Finding a co-founder
+
+[YC co-founder matching](https://www.ycombinator.com/cofounder-matching): Match with co-founders based on your preferences for interests, skills, location, and more, and start building your company.
 
 ## General chat
 
@@ -103,8 +109,6 @@ discussions.
 
 ## Job boards
 
-[YC co-founder matching board](https://www.ycombinator.com/cofounder-matching): Match with co-founders based on your preferences for interests, skills, location, and more, and start building your company.
-
 [Braintrust discord server](https://discord.gg/braintrust): User-owned talent
 network. Find jobs, get hired.
 
@@ -141,3 +145,5 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 [flyertalk](https://www.flyertalk.com/forum/travel-technology/952359-thoughts-about-my-free-iphone-app-whatsapp.html):
 Jan Koum first pitched Whatsapp back in 2007 to the community, how cool is this?
+
+[Awesome startups](https://github.com/KrishMunot/awesome-startup): A curated list of awesome books, videos, courses and resources about making a startup.
