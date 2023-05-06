@@ -107,6 +107,10 @@ nomad spending time in PdC. Weekly meetups socializing about variety of startup
 related topics, ranging from taxes, to founder fireside chats, to deep-tech
 discussions.
 
+[Bogota, Colombia whatsapp group](https://chat.whatsapp.com/K4ZmeuXfUQcJ46E4DKa6z1)
+
+[Medellin, Colombia communities](http://mdecommunity.com/)
+
 ## Job boards
 
 [Braintrust discord server](https://discord.gg/braintrust): User-owned talent
