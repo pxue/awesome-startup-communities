@@ -97,9 +97,7 @@ Paid communities are all the rage right now.
 
 ## Digital Nomad
 
-hate the term, had the concept, but there are some real communities out there
-that are very friendly and helpful especially if you're a travelling startup
-founder.
+Helpful local communities for the travelling founders.
 
 [Playa del Carmen whatsapp
 group](https://chat.whatsapp.com/CPrbArhQWAX0nIQyG38OWJ): Great for digital
