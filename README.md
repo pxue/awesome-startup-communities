@@ -95,6 +95,8 @@ Paid communities are all the rage right now.
 
 [Operators guide](https://operators-guild.com/): One of the best community for builders, a safe space for exclusive talent to conjure, question, and create.
 
+[Founders Cafe](https://founderscafe.io): For early stage solo(ish) founders who want to raise from top funds like YC.
+
 ## Digital Nomad
 
 Helpful local communities for the travelling founders.
