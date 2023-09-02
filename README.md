@@ -132,6 +132,12 @@ Get Go announcements, get help on dev, find contrats/full-time jobs.
 server](https://join.slack.com/t/torontojs/shared_invite/zt-1t041oxjl-atPnwJxbCsEfmYNofCNhtQ):
 Ask for help, talk about JS community in Toronto, find jobs.
 
+[YCombinator startup job board](https://www.ycombinator.com/jobs)
+Work at ycombinator startup job board
+
+[Who's hiring?](https://hnhiring.com/)
+Posted to hacker's news every start of the month, includes both full-time and contractor roles.
+
 ## Curated
 
 [OnDeck](https://www.beondeck.com/): curated community designed to increase the odds of building a successful venture-backed company.
