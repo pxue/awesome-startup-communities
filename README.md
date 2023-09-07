@@ -29,7 +29,7 @@ and VCs
 
 [Ycombinator](#): TBD
 
-[500 startups](#): TBD
+[500 startups](https://500strong.slack.com/): 500 Global is a venture capital firm with $2.4 billion¹ in assets under management that invests in founders building fast-growing technology companies.
 
 [RippleX slack
 server](https://join.slack.com/t/ripplexfellow-nwv3104/shared_invite/zt-1t05yh5c1-C~piTUdk4fb3Ch3olVtu7w):
