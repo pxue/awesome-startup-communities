@@ -69,6 +69,8 @@ propaganda.
 
 [everthing marketplaces](https://www.everythingmarketplaces.com/): Community for marketplace founders & leaders.
 
+[Accountability whatsapp group](https://chat.whatsapp.com/HkdI4sYj4HKKCQt2zTR975): Daily chats to hold new entrepreneurs accountable.
+
 ## Tech help
 
 [Stripe discord server](https://discord.gg/stripe): get 1:1 developer help from
@@ -83,7 +85,7 @@ builder. Get help, get news and talk to other builders.
 
 [Dev.to](https://dev.to/): open forum for tech help
 
-[Accountability whatsapp group](https://chat.whatsapp.com/HkdI4sYj4HKKCQt2zTR975): Daily chats to hold new entrepreneurs accountable.
+[Nextjs](https://github.com/vercel/next.js/discussions): Nextjs help + job board.
 
 ## Paid
 
@@ -120,6 +122,20 @@ network. Find jobs, get hired.
 
 [a.team](https://www.a.team/): Community of for-hire talents that work together
 to deliver on great projects.
+
+[toptal](https://www.toptal.com/)
+
+[gun.io](https://gun.io/)
+
+[js chimp](https://jschimp.com/)
+
+[remoteok](https://remoteok.com/)
+
+[weworkremotely](https://weworkremotely.com/)
+
+[rails jobs](https://railsdevs.com/)
+
+[python jobs](https://www.python.org/jobs/)
 
 [The Loop slack
 server](https://join.slack.com/t/theloop-h2r1102/shared_invite/zt-1su97yig3-me81nKZS~F9CYfnRTigATw):
