@@ -20,6 +20,7 @@ Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
   - [Curated](#curated)
   - [Show off](#show-off)
   - [Bonus](#bonus)
+  - [Need description](#need-description)
 
 ## Accelerators
 
@@ -123,20 +124,6 @@ network. Find jobs, get hired.
 [a.team](https://www.a.team/): Community of for-hire talents that work together
 to deliver on great projects.
 
-[toptal](https://www.toptal.com/)
-
-[gun.io](https://gun.io/)
-
-[js chimp](https://jschimp.com/)
-
-[remoteok](https://remoteok.com/)
-
-[weworkremotely](https://weworkremotely.com/)
-
-[rails jobs](https://railsdevs.com/)
-
-[python jobs](https://www.python.org/jobs/)
-
 [The Loop slack
 server](https://join.slack.com/t/theloop-h2r1102/shared_invite/zt-1su97yig3-me81nKZS~F9CYfnRTigATw):
 Semi-active channel that curates jobs across the industry, and connects
@@ -173,5 +160,22 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 [flyertalk](https://www.flyertalk.com/forum/travel-technology/952359-thoughts-about-my-free-iphone-app-whatsapp.html):
 Jan Koum first pitched Whatsapp back in 2007 to the community, how cool is this?
+
+## Need description
+if anyone have experience with the following list of job boards, please help me add a description and honest review, there are a lot of these things around and I don't want to be recommending bad ones.
+
+[toptal](https://www.toptal.com/)
+
+[gun.io](https://gun.io/)
+
+[js chimp](https://jschimp.com/)
+
+[remoteok](https://remoteok.com/)
+
+[weworkremotely](https://weworkremotely.com/)
+
+[rails jobs](https://railsdevs.com/)
+
+[python jobs](https://www.python.org/jobs/)
 
 [Awesome startups](https://github.com/KrishMunot/awesome-startup): A curated list of awesome books, videos, courses and resources about making a startup.
