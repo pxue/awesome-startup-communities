@@ -90,6 +90,8 @@ builder. Get help, get news and talk to other builders.
 
 [Tailwind](https://discord.com/invite/7NF8GNe): Discord server to get help on everything related to tailwind.
 
+[Nextjs](https://discord.com/invite/bUG2bvbtHy): Discord server for nextjs help.
+
 ## Paid
 
 Paid communities are all the rage right now.
