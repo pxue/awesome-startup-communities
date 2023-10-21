@@ -165,6 +165,8 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 ## Bonus
 
+[the hive index](https://thehiveindex.com/): curated list of top online communities.
+[gummysearch](https://gummysearch.com/): search and get stats on trending subreddits.
 [flyertalk](https://www.flyertalk.com/forum/travel-technology/952359-thoughts-about-my-free-iphone-app-whatsapp.html):
 Jan Koum first pitched Whatsapp back in 2007 to the community, how cool is this?
 
