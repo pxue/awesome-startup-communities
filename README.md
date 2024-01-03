@@ -109,6 +109,8 @@ Paid communities are all the rage right now.
 
 [Founders Cafe](https://founderscafe.io): For early stage solo(ish) founders who want to raise from top funds like YC.
 
+[Kizuna discord](https://twitter.com/kizunanyc): Invitation only community for discussion about business, marketing, sales, storytelling.
+
 ## Digital Nomad
 
 Helpful local communities for the travelling founders.
