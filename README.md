@@ -48,11 +48,10 @@ VCs.
 
 ## General chat
 
-[Founders Exchange discord server](https://discord.gg/hKhFchvW): Ask for help,
-general discussions around business.
-
 [Furlough discord server](https://discord.gg/furlough): Wide topic discord
 server for tech, ecommerce, general business, social-media.
+
+[r/Agency discord server](https://discord.gg/PTX3vzy9qa): r/Agency discord server for all agency founders.
 
 [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur): Wide topic discussion
 board on reddit for all topics around Entrepreneur.
