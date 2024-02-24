@@ -48,6 +48,8 @@ VCs.
 
 ## General chat
 
+[Rands leadership slack server](https://randsinrepose.com/welcome-to-rands-leadership-slack/): Invite only, wide range of topics that cover leadership & tech.
+
 [Furlough discord server](https://discord.gg/furlough): Wide topic discord
 server for tech, ecommerce, general business, social-media.
 
