@@ -27,20 +27,7 @@ Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
 
 and VCs
 
-[Gen Z VCs slack community](https://genz-vcs.slack.com/join/shared_invite/zt-1ssip30sw-a0C25NtBxdeS12PqBq1v9g#): A global collective of 22,000+ Gen Z VCs, founders, angel investors, operators and aspiring VCs… the future of innovation.
-
-[Ycombinator](#): TBD
-
-[500 startups](https://500strong.slack.com/): 500 Global is a venture capital firm with $2.4 billion¹ in assets under management that invests in founders building fast-growing technology companies.
-
-[RippleX slack
-server](https://join.slack.com/t/ripplexfellow-nwv3104/shared_invite/zt-1t05yh5c1-C~piTUdk4fb3Ch3olVtu7w):
-Community for RippleX 12-week startup program for underrepresented founders and
-VCs.
-
-[Techstars](#): TBD
-
-[DMZ slack server (invite only)](https://dmzcommunity.slack.com/): Canada's leading startup incubator/accelerator.
+[Gen Z VCs slack community](https://www.genzvcs.com/join-us): A global collective of 22,000+ Gen Z VCs, founders, angel investors, operators and aspiring VCs… the future of innovation.
 
 ## Finding a co-founder
 
