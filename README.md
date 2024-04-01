@@ -79,9 +79,10 @@ builder. Get help, get news and talk to other builders.
 
 [Dev.to](https://dev.to/): open forum for tech help
 
-[Tailwind 🌶️🌶️🌶️](https://discord.com/invite/7NF8GNe): Discord server to get help on everything related to tailwind.
+[Tailwind 💵](https://discord.com/invite/7NF8GNe): Discord server to get help on everything related to tailwind.
 
 [Nextjs 🌶️🌶️](https://discord.com/invite/bUG2bvbtHy): Discord server for nextjs help.
+
 [Nextjs job board 💵](https://github.com/vercel/next.js/discussions): Nextjs help + job board.
 
 ## No code
