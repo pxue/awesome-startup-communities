@@ -3,8 +3,17 @@
 
 A curated list of awesome communities related to creating, running and being successful at startups.
 
-Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
+## The rating system
 
+|    Rating     |                Description.                  |
+| ------------- | -------------------------------------------- |
+|               | Unrated.                                     |
+| 🌶️            | Good knowledge base, infrequent job postings |
+| 🌶️🌶️          | Engineers / founders actively seeking advice, occassional job postings |
+| 🌶️🌶️🌶️        | Frequent job postings and lively discussions |
+| 💵            | Confirmed contract (me or others)            |
+
+Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
 Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
 
 ## Contents
@@ -25,28 +34,22 @@ Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
 
 ## Accelerators
 
-and VCs
-
 [Gen Z VCs slack community](https://www.genzvcs.com/join-us): A global collective of 22,000+ Gen Z VCs, founders, angel investors, operators and aspiring VCs… the future of innovation.
 
 ## Finding a co-founder
 
-[YC co-founder matching](https://www.ycombinator.com/cofounder-matching): Match with co-founders based on your preferences for interests, skills, location, and more, and start building your company.
+[YC co-founder matching 🌶️](https://www.ycombinator.com/cofounder-matching): Match with co-founders based on your preferences for interests, skills, location, and more, and start building your company.
 
 ## General chat
 
-[Rands leadership slack server](https://randsinrepose.com/welcome-to-rands-leadership-slack/): Invite only, wide range of topics that cover leadership & tech.
+[Rands leadership slack server 🌶️🌶️🌶️](https://randsinrepose.com/welcome-to-rands-leadership-slack/): Invite only, wide range of topics that cover leadership & tech.
 
 [Furlough discord server](https://discord.gg/furlough): Wide topic discord
 server for tech, ecommerce, general business, social-media.
 
-[r/Agency discord server](https://discord.gg/PTX3vzy9qa): r/Agency discord server for all agency founders.
+[r/Agency discord server 🌶️](https://discord.gg/PTX3vzy9qa): r/Agency discord server for all agency founders.
 
-[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur): Wide topic discussion
-board on reddit for all topics around Entrepreneur.
-
-[r/startups](https://www.reddit.com/r/startups/): Place to discuss startup
-problems and solutions.
+[r/saas 💵](https://www.reddit.com/r/startups/): Place to discuss SaaS problems and solutions.
 
 [r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/):
 Solve issues, network without spamming, talk about the growth of your business
@@ -63,10 +66,10 @@ propaganda.
 
 ## Tech help
 
-[Stripe discord server](https://discord.gg/stripe): get 1:1 developer help from
+[Stripe discord server 💵](https://discord.gg/stripe): get 1:1 developer help from
 the stripe's internal dev teams.
 
-[OpenAI discord server](https://discord.gg/openai): Talk about anything gpt
+[OpenAI discord server 🌶️🌶️](https://discord.gg/openai): Talk about anything gpt
 related topics, from general discussion to prompt-engineering examples to API
 dev help.
 
@@ -75,10 +78,10 @@ builder. Get help, get news and talk to other builders.
 
 [Dev.to](https://dev.to/): open forum for tech help
 
-[Tailwind](https://discord.com/invite/7NF8GNe): Discord server to get help on everything related to tailwind.
+[Tailwind 🌶️🌶️🌶️](https://discord.com/invite/7NF8GNe): Discord server to get help on everything related to tailwind.
 
-[Nextjs](https://discord.com/invite/bUG2bvbtHy): Discord server for nextjs help.
-[Nextjs job board](https://github.com/vercel/next.js/discussions): Nextjs help + job board.
+[Nextjs 🌶️🌶️](https://discord.com/invite/bUG2bvbtHy): Discord server for nextjs help.
+[Nextjs job board 💵](https://github.com/vercel/next.js/discussions): Nextjs help + job board.
 
 ## No code
 [Adalo](https://forum.adalo.com/): Build Custom Responsive Apps & Publish Anywhere — No Coding Required
@@ -97,7 +100,7 @@ Paid communities are all the rage right now.
 
 [Founders Cafe](https://founderscafe.io): For early stage solo(ish) founders who want to raise from top funds like YC.
 
-[Kizuna discord](https://twitter.com/kizunanyc): Invitation only community for discussion about business, marketing, sales, storytelling.
+[Kizuna discord 🌶️](https://twitter.com/kizunanyc): Invitation only community for discussion about business, marketing, sales, storytelling.
 
 ## Digital Nomad
 
@@ -115,30 +118,24 @@ discussions.
 
 ## Job boards
 
-[Braintrust discord server](https://discord.gg/braintrust): User-owned talent
-network. Find jobs, get hired.
+[Braintrust discord server 💵](https://discord.gg/braintrust): User-owned talent network. Find jobs, get hired.
 
 [a.team](https://www.a.team/): Community of for-hire talents that work together
 to deliver on great projects.
 
-[The Loop slack
-server](https://join.slack.com/t/theloop-h2r1102/shared_invite/zt-1su97yig3-me81nKZS~F9CYfnRTigATw):
+[The Loop slack server](https://join.slack.com/t/theloop-h2r1102/shared_invite/zt-1su97yig3-me81nKZS~F9CYfnRTigATw):
 Semi-active channel that curates jobs across the industry, and connects
 investors, founders and developers.
 
-[Go slack
-server](https://join.slack.com/t/gophers/shared_invite/zt-1t56znkog-3qC6F4~~yEIg1R0WBhwspg):
+[Go slack server 💵](https://join.slack.com/t/gophers/shared_invite/zt-1t56znkog-3qC6F4~~yEIg1R0WBhwspg):
 Get Go announcements, get help on dev, find contrats/full-time jobs.
 
-[Toronto JS slack
-server](https://join.slack.com/t/torontojs/shared_invite/zt-1t041oxjl-atPnwJxbCsEfmYNofCNhtQ):
+[Toronto JS slack server 🌶️🌶️](https://join.slack.com/t/torontojs/shared_invite/zt-1t041oxjl-atPnwJxbCsEfmYNofCNhtQ):
 Ask for help, talk about JS community in Toronto, find jobs.
 
-[YCombinator startup job board](https://www.ycombinator.com/jobs)
-Work at ycombinator startup job board
+[YCombinator startup job board 💵](https://www.ycombinator.com/jobs): Work at ycombinator startup job board
 
-[Who's hiring?](https://hnhiring.com/)
-Posted to hacker's news every start of the month, includes both full-time and contractor roles.
+[Who's hiring?](https://hnhiring.com/): Posted to hacker's news every start of the month, includes both full-time and contractor roles.
 
 ## Curated
 
