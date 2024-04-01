@@ -14,6 +14,7 @@ A curated list of awesome communities related to creating, running and being suc
 | 💵            | Confirmed contract (me or others)            |
 
 Have a community you want to share? Open a PR or email paul@spacestationlabs.ltd
+
 Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
 
 ## Contents
