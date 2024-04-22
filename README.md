@@ -85,6 +85,8 @@ builder. Get help, get news and talk to other builders.
 
 [Nextjs job board 💵](https://github.com/vercel/next.js/discussions): Nextjs help + job board.
 
+[Nuxt 🌶️](https://discord.com/invite/nuxt): Discord server for nuxtjs help.
+
 ## No code
 [Adalo](https://forum.adalo.com/): Build Custom Responsive Apps & Publish Anywhere — No Coding Required
 
