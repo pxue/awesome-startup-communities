@@ -94,15 +94,7 @@ builder. Get help, get news and talk to other builders.
 
 Paid communities are all the rage right now.
 
-[Hampton](https://www.joinhampton.com/): Private network for high-growth founders, will set you back $8,500/yr but apparently it's already full with over 3,000 applicants.
-
-[Chief](https://chief.com/): Private membership network focused on connecting and supporting women executive leaders.
-
-[Demandcurve](https://www.demandcurve.com/): Newsletter, course, and a legit community of founders/mentors.
-
-[Operators guide](https://operators-guild.com/): One of the best community for builders, a safe space for exclusive talent to conjure, question, and create.
-
-[Founders Cafe](https://founderscafe.io): For early stage solo(ish) founders who want to raise from top funds like YC.
+[Tribe 💵](https://tribehq.co/): $200/month cost, imho one of the best community for SMB/agency/PE buyers. I've landed multiple projects from the members here from referrals.
 
 [Kizuna discord 🌶️](https://twitter.com/kizunanyc): Invitation only community for discussion about business, marketing, sales, storytelling.
 
