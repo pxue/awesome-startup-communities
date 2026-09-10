@@ -146,6 +146,8 @@ discussions.
 [Product Hunt](https://www.producthunt.com/): Get "hunted", get "upvotes",
 Brag about your "#1 on product hunt" badge on your marketing site.
 
+[VibeHacker](https://vibehacker.com/): Product discovery community for AI builders and vibe coders — directory, reviews, discussions, and launches.
+
 ## Bonus
 
 [the hive index](https://thehiveindex.com/): curated list of top online communities.
