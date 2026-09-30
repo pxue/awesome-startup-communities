@@ -43,6 +43,8 @@ Follow me on Twitter [@pxue](https://x.com/pxue) for community tips and hacks.
 
 ## General chat
 
+[Unicorn Embassy](https://unicornembassy.com): International community for emigrant tech founders, with active chapters in 8 cities (Yerevan, Tbilisi, Belgrade, Dubai, Istanbul, Barcelona, Valencia, Bali). 150+ events: pitch sessions, masterminds, founder dinners. Bilingual EN/RU. Free.
+
 [Rands leadership slack server 🌶️🌶️🌶️](https://randsinrepose.com/welcome-to-rands-leadership-slack/): Invite only, wide range of topics that cover leadership & tech.
 
 [Furlough discord server](https://discord.gg/furlough): Wide topic discord
