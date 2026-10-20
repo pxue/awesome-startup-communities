@@ -150,6 +150,8 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 [CodeTrendy](https://codetrendy.com/): Startup discovery directory where founders list SaaS, AI and developer tools to get in front of developers, founders and investors.
 
+[RadarMakers](https://radarmakers.com/): Free launchpad for indie makers. Products get upvotes, comments, and ratings on idea, execution, design, and value.
+
 ## Bonus
 
 [the hive index](https://thehiveindex.com/): curated list of top online communities.
