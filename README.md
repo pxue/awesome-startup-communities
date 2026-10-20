@@ -148,6 +148,8 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 [VibeHacker](https://vibehacker.com/): Product discovery community for AI builders and vibe coders — directory, reviews, discussions, and launches.
 
+[RadarMakers](https://radarmakers.com/): Free launchpad for indie makers. Products get upvotes, comments, and ratings on idea, execution, design, and value.
+
 ## Bonus
 
 [the hive index](https://thehiveindex.com/): curated list of top online communities.
