@@ -152,6 +152,8 @@ Brag about your "#1 on product hunt" badge on your marketing site.
 
 [CodeTrendy](https://codetrendy.com/): Startup discovery directory where founders list SaaS, AI and developer tools to get in front of developers, founders and investors.
 
+[MEDIAPRONET](https://mediapronet.com/): Startup and product discovery directory where builders launch websites, SaaS and AI tools, each with its own listing page.
+
 [RadarMakers](https://radarmakers.com/): Free launchpad for indie makers. Products get upvotes, comments, and ratings on idea, execution, design, and value.
 
 ## Bonus
